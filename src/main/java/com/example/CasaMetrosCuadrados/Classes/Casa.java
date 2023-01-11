@@ -1,5 +1,5 @@
 package com.example.CasaMetrosCuadrados.Classes;
-
+//Casa
 public class Casa {
     private String name;
     private String direccion;
